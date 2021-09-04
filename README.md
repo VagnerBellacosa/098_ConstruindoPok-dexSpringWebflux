@@ -1,6 +1,6 @@
 # LABs
 
-## 098_ConstruindoPok-dexSpringWebflux
+## 098_ConstruindoPokedexSpringWebflux
 
 Construindo um Pokédex com Spring Webflux
 
